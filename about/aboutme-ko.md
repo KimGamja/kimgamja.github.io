@@ -1,3 +1,5 @@
+$git config --global gui.encoding utf-8
+
 # 김감자 테스트 프로필
 ## 학력
 ### 선비대학교 피카츄학과 학사 (2021.08)
