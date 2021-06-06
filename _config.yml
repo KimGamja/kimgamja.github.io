@@ -39,9 +39,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Gamja Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "CODING_LEVEL = POTATO,   MATH-ING_LEVEL = TOMATO"
+  bio              : "CODING_LEVEL = POTATO<br>MATH-ING_LEVEL = TOMATO"
   location         : "Somewhere"
   email            :
   links:
